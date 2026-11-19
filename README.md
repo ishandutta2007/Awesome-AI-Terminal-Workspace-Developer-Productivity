@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Terminal-Workspace-Developer-Productivity/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Terminal-Workspace-Developer-Productivity?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Terminal-Workspace-Developer-Productivity/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Terminal-Workspace-Developer-Productivity?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Terminal-Workspace-Developer-Productivity/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Terminal-Workspace-Developer-Productivity?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Terminal-Workspace-Developer-Productivity/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,7 +61,7 @@ Market dynamics demonstrate a **moderately fragmented yet converging ecosystem**
 
 *High-velocity open-source terminal workspaces, GPU emulators, multiplexers, and autonomous TUI developer agents. Sorted in descending order by GitHub stargazers.*
 
-| Project | Stars | License | Description |
+| Project | GitHub_Stars | License | Description |
 | :--- | :---: | :---: | :--- |
 | **[Anomaly / OpenCode](https://github.com/anomalyco/opencode)** | [![Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | `MIT` | Polished terminal-native autonomous AI coding agent with LSP diagnostics integration, client/server architecture, and multi-provider LLM support. |
 | **[Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)** | [![Stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=social&color=white)](https://github.com/ohmyzsh/ohmyzsh/stargazers) | `MIT` | Community-driven framework for managing Zsh shell configurations, featuring 300+ plugins, themes, and shell AI assistant integrations. |
@@ -138,7 +138,7 @@ Contributions are warmly welcomed! Help keep this ecosystem guide fresh, accurat
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-tool`.
-3. 📝 Add your entry to either the **SaaS** or **Open-Source** table (maintaining alphabetical or star/valuation order, and including pricing/free tier or star badges).
+3. 📝 Add your entry to either the **SaaS** or **Open-Source** table (maintaining alphabetical or star/valuation order, and including pricing/free tier or Stars_Badges).
 4. 🚀 Commit your changes: `git commit -m "Add [Tool Name] to AI Terminal Workspace list"`.
 5. 📬 Push to the branch and submit a **Pull Request**.
 
